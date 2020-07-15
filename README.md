@@ -7,3 +7,6 @@ Hi there 👋
 + 😄 Pronouns: he/him
 
 > Mozart, Beethoven, and Chopin never died. They simply became their music.
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TonnyL&show_icons=true)
